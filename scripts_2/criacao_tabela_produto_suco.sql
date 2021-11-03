@@ -3,6 +3,6 @@ CREATE TABLE `sucos`.`tbproduto` (
   `NOME` VARCHAR(150) NULL,
   `EMBALAGEM` VARCHAR(50) NULL,
   `TAMANHO` VARCHAR(50) NULL,
-  `SABOR`	VARCHAR (50),
+  `SABOR` VARCHAR (50) NULL,
   `PRECO_LISTA` FLOAT NULL)
 COMMENT = '																																	';
